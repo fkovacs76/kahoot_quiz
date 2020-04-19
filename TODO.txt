@@ -1,0 +1,2 @@
+javit felnottek fog szam. 32 a jo
+egy kerdes ne szerepeljen tobbszor is a tesztben
