@@ -1,0 +1,5 @@
+javit felnottek fog szam. 32 a jo
+egy kerdes ne szerepeljen tobbszor is a tesztben
+0 5 10 -> 15  valasz
+Beni csoki = 18 a jo
+Melzik hullo ; teknosbeka meg viera eg
